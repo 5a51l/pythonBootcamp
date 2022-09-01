@@ -1,6 +1,6 @@
-print("Prime numbers between", 0, "and", 200, "are:")
+print("Prime numbers between", 1, "and", 200, "are:")
 
-for num in range(0, 201):
+for num in range(1, 201):
    
    if num > 1:
        for i in range(2, num):
